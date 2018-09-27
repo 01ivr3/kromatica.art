@@ -9,7 +9,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'react-emotion'
-import ooooGif from '../media/gifpop_index.gif'
+import ooooGif from '../media/dancer1.1.gif'
 import '../layouts/index.css'
 
 const Page = styled('div')`
