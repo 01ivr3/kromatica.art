@@ -17,7 +17,7 @@ const Page = styled('div')`
 `
 
 const Container = styled('div')`
-	${tw`flex justify-center items-center bg-white container my-4 mx-auto max-w-sm shadow-lg rounded-lg overflow-hidden font-sans`};
+	${tw`flex justify-center items-center container mx-auto max-w-md overflow-hidden font-sans`};
 `
 
 const Wrapper = styled('div')`
